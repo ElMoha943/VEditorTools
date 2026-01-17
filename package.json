@@ -16,5 +16,5 @@
     "models",
     "importer"
   ],
-  "hideInInspector": false
+  "hideInEditor": false
 }
